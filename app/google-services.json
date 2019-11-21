@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9226172322",
+    "firebase_url": "https://drink-38865.firebaseio.com",
+    "project_id": "drink-38865",
+    "storage_bucket": "drink-38865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9226172322:android:d473076f189eb0798fe4fb",
+        "android_client_info": {
+          "package_name": "com.example.opskrift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9226172322-2d0pgotgcusurji2k3uji418su6u0qn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opskrift",
+            "certificate_hash": "de728a883e085f35031d6e3acbf4913931df9c4a"
+          }
+        },
+        {
+          "client_id": "9226172322-mu7clnod0v63nemeuktfl4gklb38ecmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW6dh4eju1XDzR0N6K_zFDcnq_99DYirE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9226172322-mu7clnod0v63nemeuktfl4gklb38ecmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
